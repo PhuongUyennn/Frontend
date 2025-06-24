@@ -26,7 +26,7 @@ This is the **frontend** of a blockchain-integrated e-commerce platform for sell
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/TruyenGau/blockchain-frontend.git
+git clone https://github.com/PhuongUyennn/Frontend.git
 
 
 ```
