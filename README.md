@@ -61,6 +61,3 @@ Make sure Metamask is installed and connected to localhost:8545 (Hardhat Network
 Contracts are deployed locally and frontend interacts via Ethers.js
 
 Update contract addresses in config.js if necessary
-
-👨‍💻 Author
-Lê Văn Truyền – GitHub
